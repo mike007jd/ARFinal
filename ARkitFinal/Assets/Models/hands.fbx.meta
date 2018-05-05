@@ -1,0 +1,351 @@
+fileFormatVersion: 2
+guid: e45b7b7fcdb51481ab4d6a912d78ca77
+timeCreated: 1525290970
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: 1)
+    100002: 10)
+    100004: 11)
+    100006: 12)
+    100008: 13)
+    100010: 14)
+    100012: 2)
+    100014: 3)
+    100016: 3DSMesh_0_0
+    100018: 3DSMesh_12_12
+    100020: 3DSMesh_14_14
+    100022: 3DSMesh_15_15
+    100024: 3DSMesh_16_16
+    100026: 3DSMesh_17_17
+    100028: 3DSMesh_18_18
+    100030: 3DSMesh_2_2
+    100032: 3DSMesh_4_4
+    100034: 3DSMesh_7_7
+    100036: 3DSMesh_8_8
+    100038: Camera
+    100040: CSS Arms FBX.jsfbx
+    100042: F1a
+    100044: F1b
+    100046: F2a
+    100048: F2b
+    100050: F2c
+    100052: F3a
+    100054: F3b
+    100056: F3c
+    100058: F4a
+    100060: F4b
+    100062: F4c
+    100064: F5a
+    100066: F5b
+    100068: F5c
+    100070: H1
+    100072: H2
+    100074: //RootNode
+    100076: PolyMesh
+    100078: PolyMesh 1
+    100080: PolyMesh 2
+    100082: PolyMesh 3
+    100084: PolyMesh 4
+    100086: PolyMesh 5
+    100088: PolyMesh 6
+    100090: PolyMesh 7
+    100092: PolyMesh 8
+    100094: rifle001.3ds
+    100096: rifle001.obj
+    100098: UA
+    400000: 1)
+    400002: 10)
+    400004: 11)
+    400006: 12)
+    400008: 13)
+    400010: 14)
+    400012: 2)
+    400014: 3)
+    400016: 3DSMesh_0_0
+    400018: 3DSMesh_12_12
+    400020: 3DSMesh_14_14
+    400022: 3DSMesh_15_15
+    400024: 3DSMesh_16_16
+    400026: 3DSMesh_17_17
+    400028: 3DSMesh_18_18
+    400030: 3DSMesh_2_2
+    400032: 3DSMesh_4_4
+    400034: 3DSMesh_7_7
+    400036: 3DSMesh_8_8
+    400038: Camera
+    400040: CSS Arms FBX.jsfbx
+    400042: F1a
+    400044: F1b
+    400046: F2a
+    400048: F2b
+    400050: F2c
+    400052: F3a
+    400054: F3b
+    400056: F3c
+    400058: F4a
+    400060: F4b
+    400062: F4c
+    400064: F5a
+    400066: F5b
+    400068: F5c
+    400070: H1
+    400072: H2
+    400074: //RootNode
+    400076: PolyMesh
+    400078: PolyMesh 1
+    400080: PolyMesh 2
+    400082: PolyMesh 3
+    400084: PolyMesh 4
+    400086: PolyMesh 5
+    400088: PolyMesh 6
+    400090: PolyMesh 7
+    400092: PolyMesh 8
+    400094: rifle001.3ds
+    400096: rifle001.obj
+    400098: UA
+    2000000: Camera
+    2100000: Material
+    2100002: 14)Mat
+    2100004: b0b0b0
+    2100006: F4bMat
+    2100008: F2cMat
+    2100010: F1aMat
+    2100012: F5aMat
+    2100014: 2)Mat
+    2100016: F3cMat
+    2100018: F4cMat
+    2100020: 1)Mat
+    2100022: F4aMat
+    2100024: F5cMat
+    2100026: F3aMat
+    2100028: 11)Mat
+    2100030: F2bMat
+    2100032: H2Mat
+    2100034: 12)Mat
+    2100036: F2aMat
+    2100038: F1bMat
+    2100040: 3)Mat
+    2100042: UAMat
+    2100044: 10)Mat
+    2100046: H1Mat
+    2100048: 13)Mat
+    2100050: F3bMat
+    2100052: F5bMat
+    2300000: 1)
+    2300002: 10)
+    2300004: 11)
+    2300006: 12)
+    2300008: 13)
+    2300010: 14)
+    2300012: 2)
+    2300014: 3)
+    2300016: 3DSMesh_0_0
+    2300018: 3DSMesh_12_12
+    2300020: 3DSMesh_14_14
+    2300022: 3DSMesh_15_15
+    2300024: 3DSMesh_16_16
+    2300026: 3DSMesh_17_17
+    2300028: 3DSMesh_18_18
+    2300030: 3DSMesh_2_2
+    2300032: 3DSMesh_4_4
+    2300034: 3DSMesh_7_7
+    2300036: 3DSMesh_8_8
+    2300038: F1a
+    2300040: F1b
+    2300042: F2a
+    2300044: F2b
+    2300046: F2c
+    2300048: F3a
+    2300050: F3b
+    2300052: F3c
+    2300054: F4a
+    2300056: F4b
+    2300058: F4c
+    2300060: F5a
+    2300062: F5b
+    2300064: F5c
+    2300066: H1
+    2300068: H2
+    2300070: PolyMesh
+    2300072: PolyMesh 1
+    2300074: PolyMesh 2
+    2300076: PolyMesh 3
+    2300078: PolyMesh 4
+    2300080: PolyMesh 5
+    2300082: PolyMesh 6
+    2300084: PolyMesh 7
+    2300086: PolyMesh 8
+    2300088: UA
+    3300000: 1)
+    3300002: 10)
+    3300004: 11)
+    3300006: 12)
+    3300008: 13)
+    3300010: 14)
+    3300012: 2)
+    3300014: 3)
+    3300016: 3DSMesh_0_0
+    3300018: 3DSMesh_12_12
+    3300020: 3DSMesh_14_14
+    3300022: 3DSMesh_15_15
+    3300024: 3DSMesh_16_16
+    3300026: 3DSMesh_17_17
+    3300028: 3DSMesh_18_18
+    3300030: 3DSMesh_2_2
+    3300032: 3DSMesh_4_4
+    3300034: 3DSMesh_7_7
+    3300036: 3DSMesh_8_8
+    3300038: F1a
+    3300040: F1b
+    3300042: F2a
+    3300044: F2b
+    3300046: F2c
+    3300048: F3a
+    3300050: F3b
+    3300052: F3c
+    3300054: F4a
+    3300056: F4b
+    3300058: F4c
+    3300060: F5a
+    3300062: F5b
+    3300064: F5c
+    3300066: H1
+    3300068: H2
+    3300070: PolyMesh
+    3300072: PolyMesh 1
+    3300074: PolyMesh 2
+    3300076: PolyMesh 3
+    3300078: PolyMesh 4
+    3300080: PolyMesh 5
+    3300082: PolyMesh 6
+    3300084: PolyMesh 7
+    3300086: PolyMesh 8
+    3300088: UA
+    4300000: 3DSMesh_16_16
+    4300002: 3DSMesh_8_8
+    4300004: 3DSMesh_17_17
+    4300006: 3DSMesh_7_7
+    4300008: 3DSMesh_0_0
+    4300010: 3DSMesh_12_12
+    4300012: 3DSMesh_4_4
+    4300014: 3DSMesh_2_2
+    4300016: 3DSMesh_15_15
+    4300018: 3DSMesh_18_18
+    4300020: 3DSMesh_14_14
+    4300022: 14)
+    4300024: PolyMesh
+    4300026: F4b
+    4300028: F2c
+    4300030: F1a
+    4300032: F5a
+    4300034: 2)
+    4300036: PolyMesh
+    4300038: F3c
+    4300040: F4c
+    4300042: 1)
+    4300044: F4a
+    4300046: F5c
+    4300048: PolyMesh
+    4300050: F3a
+    4300052: 11)
+    4300054: PolyMesh
+    4300056: PolyMesh
+    4300058: F2b
+    4300060: H2
+    4300062: 12)
+    4300064: F2a
+    4300066: F1b
+    4300068: PolyMesh
+    4300070: PolyMesh
+    4300072: 3)
+    4300074: UA
+    4300076: 10)
+    4300078: H1
+    4300080: 13)
+    4300082: F3b
+    4300084: PolyMesh
+    4300086: PolyMesh
+    4300088: F5b
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
